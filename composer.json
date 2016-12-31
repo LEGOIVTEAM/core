@@ -107,6 +107,5 @@
         "symfony/css-selector": "Required to use some of the crawler integration testing tools (3.1.*).",
         "symfony/dom-crawler": "Required to use most of the crawler integration testing tools (3.1.*).",
         "symfony/psr-http-message-bridge": "Required to use psr7 bridging features (0.2.*)."
-    },
-    "minimum-stability": "dev"
+    }
 }
